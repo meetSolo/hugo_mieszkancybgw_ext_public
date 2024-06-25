@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tygodniówka on Mieszkańcy BGW</title>
+    <link>/tags/tygodni%C3%B3wka/</link>
+    <description>Recent content in Tygodniówka on Mieszkańcy BGW</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/tygodni%C3%B3wka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tygodniówka tramwajowa #2</title>
+      <link>/tygodniowka/2024-06-03/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/tygodniowka/2024-06-03/</guid>
+      <description>&lt;p&gt;O tym co jest w dokumentacji, o wykopie, o trakcji i planach zabrania głosu podczas sesji absolutoryjnej rady miasta.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tygodniówka tramwajowa #1</title>
+      <link>/tygodniowka/2024-05-24/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>/tygodniowka/2024-05-24/</guid>
+      <description>&lt;p&gt;Pierwsza tygodniówka po wznowieniu. O tym że otrzymaliśmy część dokumentacji&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
